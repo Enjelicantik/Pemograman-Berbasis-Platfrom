@@ -1,0 +1,11 @@
+{
+  "name": "enjeli_session-4_pbp",
+  "version": "1.0.0",
+  "main": "arrayobeject.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
